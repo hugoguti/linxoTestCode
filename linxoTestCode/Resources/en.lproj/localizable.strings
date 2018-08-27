@@ -1,0 +1,9 @@
+/* 
+  localizable.strings
+  jsonSwift4
+
+  Created by Hugo GUTIERREZ on 26/08/2018.
+  Copyright © 2018 Hugo GUTIERREZ. All rights reserved.
+*/
+
+"from_album" = "De l'album : ";
